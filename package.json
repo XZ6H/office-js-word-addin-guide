@@ -1,0 +1,29 @@
+{
+  "name": "office-js-word-addin-guide",
+  "version": "1.0.0",
+  "description": "Comprehensive Office JS Word Add-ins documentation with best practices, performance optimization, and TypeScript recipes",
+  "main": "README.md",
+  "scripts": {
+    "test": "cd examples && npm test",
+    "build": "cd examples && npm run build",
+    "lint": "cd examples && npm run lint"
+  },
+  "keywords": [
+    "office-js",
+    "word-addin",
+    "typescript",
+    "office-addins",
+    "microsoft-word",
+    "documentation"
+  ],
+  "author": "XZ6H",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XZ6H/office-js-word-addin-guide.git"
+  },
+  "bugs": {
+    "url": "https://github.com/XZ6H/office-js-word-addin-guide/issues"
+  },
+  "homepage": "https://github.com/XZ6H/office-js-word-addin-guide#readme"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "office-js-word-addin-examples",
+  "version": "1.0.0",
+  "description": "TypeScript examples and tests for Office JS Word Add-ins",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "test:coverage": "vitest --coverage",
+    "build": "tsc",
+    "lint": "eslint src tests"
+  },
+  "devDependencies": {
+    "@types/office-js": "^1.0.337",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "eslint": "^8.45.0",
+    "typescript": "^5.1.6",
+    "vitest": "^0.34.0"
+  },
+  "dependencies": {}
+}
